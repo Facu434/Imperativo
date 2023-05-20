@@ -1,0 +1,11 @@
+5-
+a- (1h) (i=8 -> i=0)
+   (1i) (i=10 -> i=0)
+
+b-
+1) (1*(x = 10, y =3, i = 1)) , (2*(x = 7, y =3, i = 2)), (3*(x = 4, y = 3, i = 3)), (4*(x = 1, y = 3, i = 4))
+2) (1*(x = 5, i = 3, res = true)), (2*(x = 5, i = 4, res = true)), (3*(x = 5, i = 5, res = true))
+3) El programa 1 lo que hace es darte el resto y el cociente de una división entera entre dos numeros.
+   El programa 2 lo que hace es decirte si un número es primo o no.
+
+(Estados luego de la * iteración con el ciclo)

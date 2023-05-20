@@ -1,0 +1,10 @@
+1-
+
+(x->7, y->3, z->5)                        |  (x->1, y->10, z->8)
+x + y + 1 = 11                            |   x + y + 1 = 12
+z * z + y * 45 - 15 * x = 55              |   z * z + y * 45 - 15 * x = 499
+y - 2 == (x * 3 + 1) % 5 = 0              |   y - 2 == (x * 3 + 1) % 5 = 0
+y / 2 * x = 7                             |   y / 2 * x = 5
+y < x * z = 1                             |   y < x * z = 0
+
+En la ultima expresion dio un resultado Int, pero que en realidad representa un Bool, 1 = True y 0 = False.

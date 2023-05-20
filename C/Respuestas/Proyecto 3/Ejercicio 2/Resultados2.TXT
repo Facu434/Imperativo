@@ -1,0 +1,8 @@
+2-
+
+z = 16
+x =  8
+y = -8
+El resultado de x % 4 = 1
+El resultado de x + y == 0 && y - x == (-1) * z = 1
+El resultado de not b && w es = 0

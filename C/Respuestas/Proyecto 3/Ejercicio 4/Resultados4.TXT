@@ -1,0 +1,8 @@
+4-
+a-
+(1e) (x=3,y=1 -> x=0 y=1)
+(1f) (x=-100,y=1 -> x=2 y=1)
+
+b-
+Lo que hace este programa es comparar tres valores y quedarse siempre con el mas chico.
+El valor final de la variable m es : 4
